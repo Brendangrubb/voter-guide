@@ -1,0 +1,21 @@
+body {
+  background-color: #C2E1ED;
+}
+
+.jumbotron {
+  background-color: #FFFFFF;
+
+}
+
+.header-image {
+  float: right;
+  width: 150px;
+}
+
+.adults {
+  background-color: #EDC2CC;
+}
+
+.kids {
+  background-color: #CEC2ED;
+}
