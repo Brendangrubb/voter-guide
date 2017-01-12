@@ -19,3 +19,7 @@ body {
 .kids {
   background-color: #CEC2ED;
 }
+
+#kids, #adults {
+  display: none;
+}
